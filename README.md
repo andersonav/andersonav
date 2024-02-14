@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson Alves</h1>
-<h3 align="center">Developer FullStack Senior</h3>
+<h3 align="center">I currently work as a Project Manager and Senior Software Developer, with solid experience in IT project management and high-quality software development. My passion for technology has led me to embrace complex challenges, lead development teams and deliver innovative solutions to the needs of my clients and my organization.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersonav" alt="andersonav" /></a> </p>
 
